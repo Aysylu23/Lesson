@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Example002_Hellouser/1.0.0": {
+        "runtime": {
+          "Example002_Hellouser.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Example002_Hellouser/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
