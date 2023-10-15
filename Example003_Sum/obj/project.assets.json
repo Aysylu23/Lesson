@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\Desktop\\Examples\\Example003_Sum\\Example003_Sum.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\Desktop\\GB Seminars\\Examples\\Example003_Sum\\Example003_Sum.csproj",
       "projectName": "Example003_Sum",
-      "projectPath": "C:\\Users\\USER\\Desktop\\Examples\\Example003_Sum\\Example003_Sum.csproj",
+      "projectPath": "C:\\Users\\USER\\Desktop\\GB Seminars\\Examples\\Example003_Sum\\Example003_Sum.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\Desktop\\Examples\\Example003_Sum\\obj\\",
+      "outputPath": "C:\\Users\\USER\\Desktop\\GB Seminars\\Examples\\Example003_Sum\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"

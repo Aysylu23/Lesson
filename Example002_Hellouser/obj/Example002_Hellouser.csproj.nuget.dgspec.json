@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Desktop\\Examples\\Example002_Hellouser\\Example002_Hellouser.csproj": {}
+    "C:\\Users\\USER\\Desktop\\GB Seminars\\Examples\\Example002_Hellouser\\Example002_Hellouser.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Desktop\\Examples\\Example002_Hellouser\\Example002_Hellouser.csproj": {
+    "C:\\Users\\USER\\Desktop\\GB Seminars\\Examples\\Example002_Hellouser\\Example002_Hellouser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Desktop\\Examples\\Example002_Hellouser\\Example002_Hellouser.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\GB Seminars\\Examples\\Example002_Hellouser\\Example002_Hellouser.csproj",
         "projectName": "Example002_Hellouser",
-        "projectPath": "C:\\Users\\USER\\Desktop\\Examples\\Example002_Hellouser\\Example002_Hellouser.csproj",
+        "projectPath": "C:\\Users\\USER\\Desktop\\GB Seminars\\Examples\\Example002_Hellouser\\Example002_Hellouser.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Desktop\\Examples\\Example002_Hellouser\\obj\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\GB Seminars\\Examples\\Example002_Hellouser\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
