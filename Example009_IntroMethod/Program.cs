@@ -36,6 +36,8 @@ int Max(int arg1, int arg2, int arg3)
 int max2 = Max(a2, b2, c2);
 int max3 = Max(a3, b3, c3);
 int max = Max(max1, max2, max3);*/
+
+//более упрощенный вариант
 int max = Max(
     Max(a1, b1, c1), 
     Max(a2, b2, c2),
