@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\GB Seminars\Examples\Example012_IntroArrayLibrary\obj\Debug\net6.0\Example012_IntroArrayLibrary.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\GB Seminars\Examples\Example012_IntroArrayLibrary\obj\Debug\net6.0\Example012_IntroArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\GB Seminars\Examples\Example012_IntroArrayLibrary\obj\Debug\net6.0\Example012_IntroArrayLibrary.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\GB Seminars\Examples\Example012_IntroArrayLibrary\obj\Debug\net6.0\Example012_IntroArrayLibrary.AssemblyInfo.cs
+C:\Users\USER\Desktop\GB Seminars\Examples\Example012_IntroArrayLibrary\obj\Debug\net6.0\Example012_IntroArrayLibrary.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\GB Seminars\Examples\Example012_IntroArrayLibrary\bin\Debug\net6.0\Example012_IntroArrayLibrary.exe
+C:\Users\USER\Desktop\GB Seminars\Examples\Example012_IntroArrayLibrary\bin\Debug\net6.0\Example012_IntroArrayLibrary.deps.json
+C:\Users\USER\Desktop\GB Seminars\Examples\Example012_IntroArrayLibrary\bin\Debug\net6.0\Example012_IntroArrayLibrary.runtimeconfig.json
+C:\Users\USER\Desktop\GB Seminars\Examples\Example012_IntroArrayLibrary\bin\Debug\net6.0\Example012_IntroArrayLibrary.dll
+C:\Users\USER\Desktop\GB Seminars\Examples\Example012_IntroArrayLibrary\bin\Debug\net6.0\Example012_IntroArrayLibrary.pdb
+C:\Users\USER\Desktop\GB Seminars\Examples\Example012_IntroArrayLibrary\obj\Debug\net6.0\Example012_IntroArrayLibrary.dll
+C:\Users\USER\Desktop\GB Seminars\Examples\Example012_IntroArrayLibrary\obj\Debug\net6.0\refint\Example012_IntroArrayLibrary.dll
+C:\Users\USER\Desktop\GB Seminars\Examples\Example012_IntroArrayLibrary\obj\Debug\net6.0\Example012_IntroArrayLibrary.pdb
+C:\Users\USER\Desktop\GB Seminars\Examples\Example012_IntroArrayLibrary\obj\Debug\net6.0\Example012_IntroArrayLibrary.genruntimeconfig.cache
+C:\Users\USER\Desktop\GB Seminars\Examples\Example012_IntroArrayLibrary\obj\Debug\net6.0\ref\Example012_IntroArrayLibrary.dll
