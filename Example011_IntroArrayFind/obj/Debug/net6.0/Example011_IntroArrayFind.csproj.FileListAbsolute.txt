@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\GB Seminars\Examples\Example011_IntroArrayFind\bin\Debug\net6.0\Example011_IntroArrayFind.exe
+C:\Users\USER\Desktop\GB Seminars\Examples\Example011_IntroArrayFind\bin\Debug\net6.0\Example011_IntroArrayFind.deps.json
+C:\Users\USER\Desktop\GB Seminars\Examples\Example011_IntroArrayFind\bin\Debug\net6.0\Example011_IntroArrayFind.runtimeconfig.json
+C:\Users\USER\Desktop\GB Seminars\Examples\Example011_IntroArrayFind\bin\Debug\net6.0\Example011_IntroArrayFind.dll
+C:\Users\USER\Desktop\GB Seminars\Examples\Example011_IntroArrayFind\bin\Debug\net6.0\Example011_IntroArrayFind.pdb
+C:\Users\USER\Desktop\GB Seminars\Examples\Example011_IntroArrayFind\obj\Debug\net6.0\Example011_IntroArrayFind.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\GB Seminars\Examples\Example011_IntroArrayFind\obj\Debug\net6.0\Example011_IntroArrayFind.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\GB Seminars\Examples\Example011_IntroArrayFind\obj\Debug\net6.0\Example011_IntroArrayFind.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\GB Seminars\Examples\Example011_IntroArrayFind\obj\Debug\net6.0\Example011_IntroArrayFind.AssemblyInfo.cs
+C:\Users\USER\Desktop\GB Seminars\Examples\Example011_IntroArrayFind\obj\Debug\net6.0\Example011_IntroArrayFind.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\GB Seminars\Examples\Example011_IntroArrayFind\obj\Debug\net6.0\Example011_IntroArrayFind.dll
+C:\Users\USER\Desktop\GB Seminars\Examples\Example011_IntroArrayFind\obj\Debug\net6.0\refint\Example011_IntroArrayFind.dll
+C:\Users\USER\Desktop\GB Seminars\Examples\Example011_IntroArrayFind\obj\Debug\net6.0\Example011_IntroArrayFind.pdb
+C:\Users\USER\Desktop\GB Seminars\Examples\Example011_IntroArrayFind\obj\Debug\net6.0\Example011_IntroArrayFind.genruntimeconfig.cache
+C:\Users\USER\Desktop\GB Seminars\Examples\Example011_IntroArrayFind\obj\Debug\net6.0\ref\Example011_IntroArrayFind.dll
