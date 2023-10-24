@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\GB Seminars\Examples\Example013Method\bin\Debug\net6.0\Example013Method.exe
+C:\Users\USER\Desktop\GB Seminars\Examples\Example013Method\bin\Debug\net6.0\Example013Method.deps.json
+C:\Users\USER\Desktop\GB Seminars\Examples\Example013Method\bin\Debug\net6.0\Example013Method.runtimeconfig.json
+C:\Users\USER\Desktop\GB Seminars\Examples\Example013Method\bin\Debug\net6.0\Example013Method.dll
+C:\Users\USER\Desktop\GB Seminars\Examples\Example013Method\bin\Debug\net6.0\Example013Method.pdb
+C:\Users\USER\Desktop\GB Seminars\Examples\Example013Method\obj\Debug\net6.0\Example013Method.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\GB Seminars\Examples\Example013Method\obj\Debug\net6.0\Example013Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\GB Seminars\Examples\Example013Method\obj\Debug\net6.0\Example013Method.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\GB Seminars\Examples\Example013Method\obj\Debug\net6.0\Example013Method.AssemblyInfo.cs
+C:\Users\USER\Desktop\GB Seminars\Examples\Example013Method\obj\Debug\net6.0\Example013Method.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\GB Seminars\Examples\Example013Method\obj\Debug\net6.0\Example013Method.dll
+C:\Users\USER\Desktop\GB Seminars\Examples\Example013Method\obj\Debug\net6.0\refint\Example013Method.dll
+C:\Users\USER\Desktop\GB Seminars\Examples\Example013Method\obj\Debug\net6.0\Example013Method.pdb
+C:\Users\USER\Desktop\GB Seminars\Examples\Example013Method\obj\Debug\net6.0\Example013Method.genruntimeconfig.cache
+C:\Users\USER\Desktop\GB Seminars\Examples\Example013Method\obj\Debug\net6.0\ref\Example013Method.dll
