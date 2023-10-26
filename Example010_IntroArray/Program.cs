@@ -6,7 +6,7 @@
     return result;
 }             //0   1   2   3  4    5  6    7   8
 int[] array = {11, 12, 13, 14, 15, 64, 17, 18, 19};
-/*array[0] = 12;
+/*array[0] = 11;
 Console.WriteLine(array[4]);*/
 
 int result = Max(
