@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\GB Seminars\Examples\Example014_RecursionAlgorithm\bin\Debug\net6.0\Example014_RecursionAlgorithm.exe
+C:\Users\USER\Desktop\GB Seminars\Examples\Example014_RecursionAlgorithm\bin\Debug\net6.0\Example014_RecursionAlgorithm.deps.json
+C:\Users\USER\Desktop\GB Seminars\Examples\Example014_RecursionAlgorithm\bin\Debug\net6.0\Example014_RecursionAlgorithm.runtimeconfig.json
+C:\Users\USER\Desktop\GB Seminars\Examples\Example014_RecursionAlgorithm\bin\Debug\net6.0\Example014_RecursionAlgorithm.dll
+C:\Users\USER\Desktop\GB Seminars\Examples\Example014_RecursionAlgorithm\bin\Debug\net6.0\Example014_RecursionAlgorithm.pdb
+C:\Users\USER\Desktop\GB Seminars\Examples\Example014_RecursionAlgorithm\obj\Debug\net6.0\Example014_RecursionAlgorithm.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\GB Seminars\Examples\Example014_RecursionAlgorithm\obj\Debug\net6.0\Example014_RecursionAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\GB Seminars\Examples\Example014_RecursionAlgorithm\obj\Debug\net6.0\Example014_RecursionAlgorithm.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\GB Seminars\Examples\Example014_RecursionAlgorithm\obj\Debug\net6.0\Example014_RecursionAlgorithm.AssemblyInfo.cs
+C:\Users\USER\Desktop\GB Seminars\Examples\Example014_RecursionAlgorithm\obj\Debug\net6.0\Example014_RecursionAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\GB Seminars\Examples\Example014_RecursionAlgorithm\obj\Debug\net6.0\Example014_RecursionAlgorithm.dll
+C:\Users\USER\Desktop\GB Seminars\Examples\Example014_RecursionAlgorithm\obj\Debug\net6.0\refint\Example014_RecursionAlgorithm.dll
+C:\Users\USER\Desktop\GB Seminars\Examples\Example014_RecursionAlgorithm\obj\Debug\net6.0\Example014_RecursionAlgorithm.pdb
+C:\Users\USER\Desktop\GB Seminars\Examples\Example014_RecursionAlgorithm\obj\Debug\net6.0\Example014_RecursionAlgorithm.genruntimeconfig.cache
+C:\Users\USER\Desktop\GB Seminars\Examples\Example014_RecursionAlgorithm\obj\Debug\net6.0\ref\Example014_RecursionAlgorithm.dll
